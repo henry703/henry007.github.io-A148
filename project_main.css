@@ -1,0 +1,21 @@
+body {
+    background-color:#FFCC21;
+    height: 80px;
+    width: 1440px; 
+    padding-top: 150px;
+    align-items: center;
+  }
+  h1 {
+    font-size: 30px;
+    font-family: Averia Serif Libre;
+    font-weight: bold;
+    font-style: normal;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+  }
+  img{
+    margin-top: 10px;
+    margin-left: 10px;
+    padding-left: 10px;
+  }
